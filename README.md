@@ -92,7 +92,7 @@ Languages detected:
 Clone the repo:
 
 ```bash
-git clone https://github.com/<your-username>/server-fingerprinter
+git clone https://github.com/Novicer18/server-fingerprinter
 cd server-fingerprinter
 ```
 
